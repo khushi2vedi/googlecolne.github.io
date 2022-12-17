@@ -1,0 +1,17 @@
+p {
+  font-size: 90px;
+  color: RED;
+  margin-left: 550px;
+  margin-top: 200px;
+}
+.xyz {
+  color: black;
+  border-radius: 20px;
+  outline-color: black;
+  outline-style: outset;
+  margin-right: 200px;
+  font-size: 20px;
+  padding: 7px;
+  margin-top: -50px;
+  margin-left: 200px;
+}
